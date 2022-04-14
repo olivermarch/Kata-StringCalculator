@@ -1,5 +1,4 @@
-# Kata_FizzBuzz
-Kata FizzBuzz con TDD
+# Kata_StringCalculator
+Kata String Calculator con TDD
 
-
-## Probando un git clone
+https://osherove.com/tdd-kata-1
